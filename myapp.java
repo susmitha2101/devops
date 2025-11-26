@@ -14,7 +14,7 @@ public class Student
     System.out.println("hello,good morning");
     System.out.println("hello,good morning");
     System.out.println("hello,good morning");
-		System.out.println("hello,good morning);
+		System.out.println("hello,good morning");
 	}
 }
 
